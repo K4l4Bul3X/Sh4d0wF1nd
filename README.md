@@ -39,7 +39,7 @@ Instalação
 
     Clone o repositório:
 
-git clone https://github.com/K4l4Bul3X/Sh4d0wF1n3r
+git clone https://github.com/K4l4Bul3X/Sh4d0wF1nd3r
 cd shadowfinder
 
 Crie um ambiente virtual (opcional, mas recomendado):
