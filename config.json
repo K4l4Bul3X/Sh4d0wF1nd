@@ -1,0 +1,15 @@
+{
+    "platforms": {
+        "Twitter": "https://twitter.com/{username}",
+        "Instagram": "https://www.instagram.com/{username}",
+        "GitHub": "https://github.com/{username}",
+        "LinkedIn": "https://www.linkedin.com/in/{username}",
+        "Reddit": "https://www.reddit.com/user/{username}",
+        "Pinterest": "https://www.pinterest.com/{username}",
+        "Tumblr": "https://{username}.tumblr.com",
+        "Flickr": "https://www.flickr.com/people/{username}",
+        "Steam": "https://steamcommunity.com/id/{username}",
+        "Vimeo": "https://vimeo.com/{username}",
+        "SoundCloud": "https://soundcloud.com/{username}"
+    }
+}
